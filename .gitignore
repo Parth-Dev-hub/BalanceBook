@@ -1,0 +1,84 @@
+# Android
+# Built APKs
+*.apk
+
+# Compiled dex output
+*.dex
+
+# Logs and crash reports
+build/
+captures/
+output.json
+
+# Android Studio
+*.iml
+.idea/
+.gradle/
+local.properties
+/.externalNativeBuild
+
+# Android NDK
+obj/
+.ndk/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Proguard files
+proguard/
+
+# Firebase files
+google-services.json
+
+# Flutter/Dart-specific
+**/generated/
+
+# iOS
+# CocoaPods
+Pods/
+Podfile.lock
+Pods.lock
+Manifest.lock
+
+# Xcode
+# xcodeproj (Xcode project)
+*.xcodeproj
+
+# xcworkspace (Xcode workspace)
+*.xcworkspace
+
+# Build products
+build/
+DerivedData/
+
+# Carthage
+/Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Objective-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# App Store specific
+*.plist
+
+# Swift Package Manager
+Packages/
+.build/
+
+# SwiftPM temporary files
+.build/
+
+# Playgrounds
+timeline.xctimeline
+
+# IDEs
+.idea/
+.vscode/
